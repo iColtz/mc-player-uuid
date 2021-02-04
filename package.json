@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/iColtz/mc-player-uuid/issues"
   },
-  "homepage": "https://github.com/iColtz/mc-player-uuid#readme"
+  "homepage": "https://github.com/iColtz/mc-player-uuid#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
