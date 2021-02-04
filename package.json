@@ -1,0 +1,24 @@
+{
+  "name": "mc-player-uuid",
+  "version": "1.0.0",
+  "description": "Get a minecraft player's UUID by their display name.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iColtz/mc-player-uuid.git"
+  },
+  "keywords": [
+    "minecraft",
+    "player",
+    "uuid"
+  ],
+  "author": "iColtz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iColtz/mc-player-uuid/issues"
+  },
+  "homepage": "https://github.com/iColtz/mc-player-uuid#readme"
+}
